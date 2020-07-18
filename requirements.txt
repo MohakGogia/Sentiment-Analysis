@@ -1,7 +1,7 @@
-matplotlib==3.2.2
-numpy==1.19.0
-pandas==1.0.5
-seaborn==0.10.1
-textblob==0.15.3
-tweepy==3.8.0
-wordcloud==1.7.0
+matplotlib
+numpy
+pandas
+seaborn
+textblob
+tweepy
+wordcloud
