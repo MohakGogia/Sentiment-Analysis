@@ -4,6 +4,6 @@ An example of sentiment analysis of Tweets by asking the user for keyword or has
 
 # Installation
 
- Simply execute `pip install -r requirements.txt` on your console (after setting the directory path to this project's folder) to install the modules. 
+ Simply execute `pip install -r requirements.txt` on your console (after setting the directory path to this project's folder) to install the libraries.
 
 
